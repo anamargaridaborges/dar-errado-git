@@ -7,5 +7,17 @@
 
 import Foundation
 
+
 print("Hello, World!")
 oiignt()
+
+
+print("Bom dia!!!!")
+print("Bom dia!!!!")
+print("Bom dia!!!!")
+print("Bom dia!!!!")
+print("Bom dia!!!!")
+print("Bom dia!!!!")
+print("Bom dia!!!!")
+
+
