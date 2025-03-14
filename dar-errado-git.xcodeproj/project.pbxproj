@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2434D74D2D84473900108A6D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2434D74C2D84473900108A6D /* main.swift */; };
+		2434D7542D844AAA00108A6D /* oiignt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2434D7532D844AAA00108A6D /* oiignt.swift */; };
 		EB0795302D84490500228FB8 /* nasjbkdfvdnjkf.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB07952F2D84490500228FB8 /* nasjbkdfvdnjkf.swift */; };
 /* End PBXBuildFile section */
 
@@ -26,6 +27,7 @@
 /* Begin PBXFileReference section */
 		2434D7492D84473900108A6D /* dar-errado-git */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "dar-errado-git"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2434D74C2D84473900108A6D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		2434D7532D844AAA00108A6D /* oiignt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = oiignt.swift; sourceTree = "<group>"; };
 		EB07952F2D84490500228FB8 /* nasjbkdfvdnjkf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nasjbkdfvdnjkf.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -61,6 +63,7 @@
 			children = (
 				2434D74C2D84473900108A6D /* main.swift */,
 				EB07952F2D84490500228FB8 /* nasjbkdfvdnjkf.swift */,
+				2434D7532D844AAA00108A6D /* oiignt.swift */,
 			);
 			path = "dar-errado-git";
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2434D74D2D84473900108A6D /* main.swift in Sources */,
+				2434D7542D844AAA00108A6D /* oiignt.swift in Sources */,
 				EB0795302D84490500228FB8 /* nasjbkdfvdnjkf.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
